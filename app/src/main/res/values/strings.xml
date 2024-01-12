@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="cm">cm</string>
+    <string name="_0">0</string>
+    <string name="height">Height</string>
+</resources>
